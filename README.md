@@ -6,12 +6,21 @@
 
 ---
 
+## 🌐 <span style="font-size:28px">My Digital Resume</span>
+<p align="left">
+  <a href="https://vashishth-182.github.io/RESUME/" target="_blank">
+    <img src="https://img.shields.io/badge/📄%20CLICK%20TO%20VIEW%20RESUME-brightgreen?style=for-the-badge" alt="View Resume">
+  </a>
+</p>
+
+---
+
 ## 🔗 Connect with Me
 
 <p align="left">
   <a href="https://github.com/vashishth-182" target="_blank"> 🐙 GitHub</a> •
-  <a href="https://www.linkedin.com/in/vashishth-prajapati-408222275"> 🔗 LinkedIn</a> •
-  <a href="vashishth2025email@gmail.com" target="_blank"> 📧 Email</a>
+  <a href="https://www.linkedin.com/in/vashishth-prajapati-408222275" target="_blank"> 🔗 LinkedIn</a> •
+  <a href="mailto:vashishth2025email@gmail.com" target="_blank"> 📧 Email</a>
 </p>
 
 ---
@@ -26,9 +35,7 @@ Ideal for platforms that want to filter and display only the best reviews.
 
 ---
 
----
-
-## THANKS TO VISIT
+## 🙏 THANKS FOR VISITING
 
 Thanks for stopping by! I'm constantly learning and building — if you're into smart tools, clean UI, or AI-powered apps, let's connect and create something amazing.
 
